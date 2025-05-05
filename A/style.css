@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: white;
+}
+li{
+    color: white;
+}
+xadrez{
+    background-image: url(imgens/xadrez.avif);
+}
